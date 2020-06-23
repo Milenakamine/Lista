@@ -1,0 +1,13 @@
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\ListaObjeto\Lista\bin\Debug\netcoreapp3.1\Lista.exe
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\ListaObjeto\Lista\bin\Debug\netcoreapp3.1\Lista.deps.json
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\ListaObjeto\Lista\bin\Debug\netcoreapp3.1\Lista.runtimeconfig.json
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\ListaObjeto\Lista\bin\Debug\netcoreapp3.1\Lista.runtimeconfig.dev.json
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\ListaObjeto\Lista\bin\Debug\netcoreapp3.1\Lista.dll
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\ListaObjeto\Lista\bin\Debug\netcoreapp3.1\Lista.pdb
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\ListaObjeto\Lista\obj\Debug\netcoreapp3.1\Lista.csprojAssemblyReference.cache
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\ListaObjeto\Lista\obj\Debug\netcoreapp3.1\Lista.csproj.CoreCompileInputs.cache
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\ListaObjeto\Lista\obj\Debug\netcoreapp3.1\Lista.AssemblyInfoInputs.cache
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\ListaObjeto\Lista\obj\Debug\netcoreapp3.1\Lista.AssemblyInfo.cs
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\ListaObjeto\Lista\obj\Debug\netcoreapp3.1\Lista.dll
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\ListaObjeto\Lista\obj\Debug\netcoreapp3.1\Lista.pdb
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\ListaObjeto\Lista\obj\Debug\netcoreapp3.1\Lista.genruntimeconfig.cache
